@@ -7,4 +7,4 @@ Things learned:
 * Python can be faster for simple for-loops (e.g. see Day 9 and the attached Python solution).
 * I was not strong enough to try to implement a linked-list in Mathematica.
 
-My only regret I have is that Mathematica notebooks are not Github viewable. Write that in my epitaph.
+My only regret is that Mathematica notebooks are not Github viewable. Write that in my epitaph.
