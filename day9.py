@@ -15,4 +15,4 @@ def play_game(max_players, last_marble):
 
     return max(scores.values()) if scores else 0
 
-print(play_game(413,71082*100))
+print(play_game(413, 71082*100))
